@@ -1,5 +1,5 @@
 # WannabeTwitch
-Christmas/New years project AKA i am an indoor cat...
+Christmas/New years project 
 
 
-I didnt go out :)
+
